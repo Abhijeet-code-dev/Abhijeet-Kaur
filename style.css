@@ -7,8 +7,7 @@
     box-sizing: border-box;
 }
 body{
-    max-width: 60rem;
-    margin: 0 auto;
+   
 }
 .navbar{
     display: flex;
@@ -96,11 +95,15 @@ body{
 .subheading{
     margin-top: 30px;
     text-align: center;
+     max-width: 60rem;
+    margin: 0 auto;
     
 }
 #about p{
     text-align: center;
     padding: 10px;
+     max-width: 60rem;
+    margin: 0 auto;
 }
 #skills-container{
     margin-top: 30px;
